@@ -37,6 +37,6 @@ tsc app.ts --outFile app.js
 <details>
   <summary><strong>👇🏻 Click here for Output Display Screen 👨🏻‍💻 : </strong></summary>
   <p align="center">
-    <img src="./assets/Current_Time.jpg" alt="Current-Time"/>
+    <a href = "https://typescriptclockticktock.netlify.app/"> <img src="./assets/Current_Time.jpg" alt="Current-Time"/> </a>
   </p>
 </details>
